@@ -7,7 +7,10 @@
 ## 安裝與執行
 
 1. 下載EXE檔案。
-2. 將輸入法切換為**英文**
+
+![image](https://github.com/mitchhuang777/MapleStarCandayHarvest/assets/79703512/4e03ad72-b379-4a1b-9728-3cbd78a97452)
+
+3. 將輸入法切換為**英文**
  
 ![image](https://github.com/mitchhuang777/MapleStarCandayHarvest/assets/79703512/7c6af1b4-ac41-4fec-a1bb-91653476cd9e)
 
@@ -24,7 +27,8 @@
 
 - 請使用者自行承擔使用該黑科技專案所產生的風險。
 
-## 貢獻
-
-如有任何問題、建議或改進，歡迎提交 issue 或發送 pull request。感謝您的貢獻！
+## ☕ Donation
+非常感謝您關注我的創作！如果您欣賞我的創作，歡迎在 "Buy Me a Coffee" 平台上為我買一杯咖啡，讓我有更多的資源和動力來創造更好的作品，謝謝您的支持！
+ 
+[Buy me a coffee](https://www.buymeacoffee.com/huangmitch) ☕
 
